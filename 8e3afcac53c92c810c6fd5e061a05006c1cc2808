@@ -1,3 +1,12 @@
 rapid land refactor/review-261117151315 as v2026.1.1: merge tree e32cb54971841fb66798bd77e02f00539004c5c8
 
 gates deferred to the close of batch ade5c35: no gate ran on this merge tree at the land
+
+close of batch ade5c35: gates on the final tree e32cb54971841fb66798bd77e02f00539004c5c8
+
+gate=full
+command=true
+exit=0
+duration=0s
+at=2026-11-17T15:15:07Z
+--- log tail
